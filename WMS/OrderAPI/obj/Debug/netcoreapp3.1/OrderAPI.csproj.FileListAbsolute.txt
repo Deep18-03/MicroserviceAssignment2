@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\WMS\OrderAPI\obj\Debug\netcoreapp3.1\OrderAPI.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\WMS\OrderAPI\obj\Debug\netcoreapp3.1\OrderAPI.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WMS\OrderAPI\obj\Debug\netcoreapp3.1\OrderAPI.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WMS\OrderAPI\obj\Debug\netcoreapp3.1\OrderAPI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WMS\OrderAPI\obj\Debug\netcoreapp3.1\OrderAPI.MvcApplicationPartsAssemblyInfo.cache

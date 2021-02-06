@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\WMS\WarehouseAPI\obj\Debug\netcoreapp3.1\WarehouseAPI.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\WMS\WarehouseAPI\obj\Debug\netcoreapp3.1\WarehouseAPI.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WMS\WarehouseAPI\obj\Debug\netcoreapp3.1\WarehouseAPI.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WMS\WarehouseAPI\obj\Debug\netcoreapp3.1\WarehouseAPI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WMS\WarehouseAPI\obj\Debug\netcoreapp3.1\WarehouseAPI.MvcApplicationPartsAssemblyInfo.cache
